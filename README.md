@@ -84,7 +84,7 @@ This is a [**React Native**](https://reactnative.dev) project, bootstrapped usin
 ---
 ### Preview (Android)
 ##### Main Page
-> ![Wanderlust Home](https://github.com/dgu-web-t3-blackshoe/travel-v-commerce-mobile/assets/uiImg/main/videoHome.jpg)
+> ![Wanderlust Home](https://github.com/dgu-web-t3-blackshoe/travel-v-commerce-mobile/assets/uiImg/main/videoHome.jpg?raw=true)
 
 
 
