@@ -83,7 +83,7 @@ This is a [**React Native**](https://reactnative.dev) project, bootstrapped usin
 
 ---
 ### Preview (Android)
-#### Main
+### Main
 <p align="space-between">
   <img src="./assets/uiImg/main/videoHome.jpg" width="200" />
   <img src="./assets/uiImg/main/videoSort.jpg" width="200" />
@@ -93,13 +93,13 @@ This is a [**React Native**](https://reactnative.dev) project, bootstrapped usin
 
 ### Video
 <p align="space-between">
-  <img src="./assets/uiImg/playVideo/playVideoMain" width="200" />
-  <img src="./assets/uiImg/playVideo/resolutionModal" width="200" />
-  
+  <img src="./assets/uiImg/playVideo/playVideoMain.jpg" width="200" />
+  <img src="./assets/uiImg/playVideo/resolutionModal.jpg" width="200" />
 </p>
+
 <p align="space-between">
-  <img src="./assets/uiImg/playVideo/playVideoFullScreen" />
-  <img src="./assets/uiImg/playVideo/modifyComment" />
+  <img src="./assets/uiImg/playVideo/playVideoFullScreen.jpg" />
+  <img src="./assets/uiImg/playVideo/modifyComment.jpg" />
 </p>
 
 
