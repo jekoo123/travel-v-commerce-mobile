@@ -84,11 +84,11 @@ This is a [**React Native**](https://reactnative.dev) project, bootstrapped usin
 ---
 ### Preview (Android)
 ##### Main Page
-<p align="center">
-  <img src="./assets/uiImg/main/videoHome.jpg" width="150" />
-  <img src="./assets/uiImg/main/videoSort.jpg" width="150" />
-  <img src="./assets/uiImg/main/myVideos.jpg" width="150" />
-  <img src="./assets/uiImg/main/log.jpg" width="150" />
+<p align="space-between">
+  <img src="./assets/uiImg/main/videoHome.jpg" width="200" />
+  <img src="./assets/uiImg/main/videoSort.jpg" width="200" />
+  <img src="./assets/uiImg/main/myVideos.jpg" width="200" />
+  <img src="./assets/uiImg/main/log.jpg" width="200" />
 </p>
 
 
