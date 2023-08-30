@@ -92,14 +92,14 @@ This is a [**React Native**](https://reactnative.dev) project, bootstrapped usin
 </p>
 
 ### Video
-<p align="space-between">
+<p align="center">
   <img src="./assets/uiImg/playVideo/playVideoMain.jpg" width="200" />
-  <img src="./assets/uiImg/playVideo/resolutionModal.jpg" width="200" />
+  <img src="./assets/uiImg/playVideo/videoComment.jpg" width="200" />
 </p>
 
-<p align="space-between">
-  <img src="./assets/uiImg/playVideo/playVideoFullScreen.jpg" />
-  <img src="./assets/uiImg/playVideo/modifyComment.jpg" />
+<p align="center">
+  <img src="./assets/uiImg/playVideo/playVideoFullScreen.jpg" width="300"/>
+  
 </p>
 
 
