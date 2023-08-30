@@ -82,30 +82,47 @@ This is a [**React Native**](https://reactnative.dev) project, bootstrapped usin
 >     - Video progress visualization using SockJS Stomp JS
 
 ---
+
 ### Preview (Android)
+
 ### Main
-<p align="space-between">
-  <img src="./assets/uiImg/main/videoHome.jpg" width="200" />
-  <img src="./assets/uiImg/main/videoSort.jpg" width="200" />
-  <img src="./assets/uiImg/main/myVideos.jpg" width="200" />
-  <img src="./assets/uiImg/main/log.jpg" width="200" />
+
+<p align="center">
+  <img src="./assets/uiImg/main/videoHome.jpg" width="230" />
+  <img src="./assets/uiImg/main/videoSort.jpg" width="230" />
+  <img src="./assets/uiImg/main/myVideos.jpg" width="230" />
+  <img src="./assets/uiImg/main/log.jpg" width="230" />
 </p>
 
 ### Video
-<p align="center">
-  <img src="./assets/uiImg/playVideo/playVideoMain.jpg" width="200" />
-  <img src="./assets/uiImg/playVideo/videoComment.jpg" width="200" />
-  <img src="./assets/uiImg/playVideo/videoAd.jpg" width="350"/>
-</p>
 
 <p align="center">
-  
-  
+  <img src="./assets/uiImg/playVideo/playVideoMain.jpg" width="230" />
+  <img src="./assets/uiImg/playVideo/videoAd.jpg" width="230"/>
+  <img src="./assets/uiImg/playVideo/videoComment.jpg" width="230" />
+  <img src="./assets/uiImg/playVideo/resolutionModal.jpg" width="230" />
 </p>
 
+### Search / Manage Comment, Subscription
 
+<p align="center">
+  <img src="./assets/uiImg/search/gptSearch.jpg" width="190" />
+  <img src="./assets/uiImg/search/autoComplete.jpg" width="190" />
+  <img src="./assets/uiImg/search/sortType.jpg" width="190" />
+  <img src="./assets/uiImg/myPage/comment.jpg" width="190" />
+  <img src="./assets/uiImg/myPage/subscribeMangage.jpg" width="190" />
+</p>
 
+### Sign Up / Login
 
+<p align="center">
+  <img src="./assets/uiImg/sign/loginMain.jpg" width="200" />
+  <img src="./assets/uiImg/sign/signUp.jpg" width="200" />
+  <img src="./assets/uiImg/sign/socialLogin.jpg" width="200" />
+  <img src="./assets/uiImg/sign/findPw.jpg" width="200" />
+</p>
+
+<hr/>
 
 ### System Structure
 > ![WANDERLUST 시스템 구조도](https://github.com/dgu-web-t3-blackshoe/travel-v-commerce-web/assets/102159721/7709a13e-3c18-4e01-8801-4e7a6b10d392)
