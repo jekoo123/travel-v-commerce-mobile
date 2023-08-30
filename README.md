@@ -95,10 +95,11 @@ This is a [**React Native**](https://reactnative.dev) project, bootstrapped usin
 <p align="center">
   <img src="./assets/uiImg/playVideo/playVideoMain.jpg" width="200" />
   <img src="./assets/uiImg/playVideo/videoComment.jpg" width="200" />
+  <img src="./assets/uiImg/playVideo/videoAd.jpg" width="350"/>
 </p>
 
 <p align="center">
-  <img src="./assets/uiImg/playVideo/playVideoFullScreen.jpg" width="300"/>
+  
   
 </p>
 
