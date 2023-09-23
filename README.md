@@ -84,44 +84,18 @@ This is a [**React Native**](https://reactnative.dev) project, bootstrapped usin
 ---
 
 ### Preview (Android)
-
-### Main
-
-<p align="center">
-  <img src="./assets/uiImg/main/videoHome.jpg" width="230" />
-  <img src="./assets/uiImg/main/videoSort.jpg" width="230" />
-  <img src="./assets/uiImg/main/myVideos.jpg" width="230" />
-  <img src="./assets/uiImg/main/log.jpg" width="230" />
-</p>
-
-### Video
-
-<p align="center">
-  <img src="./assets/uiImg/playVideo/playVideoMain.jpg" width="230" />
-  <img src="./assets/uiImg/playVideo/videoAd.jpg" width="230"/>
-  <img src="./assets/uiImg/playVideo/videoComment.jpg" width="230" />
-  <img src="./assets/uiImg/playVideo/resolutionModal.jpg" width="230" />
-</p>
-
-### Search / Manage Comment, Subscription
-
-<p align="center">
-  <img src="./assets/uiImg/search/gptSearch.jpg" width="190" />
-  <img src="./assets/uiImg/search/autoComplete.jpg" width="190" />
-  <img src="./assets/uiImg/search/sortType.jpg" width="190" />
-  <img src="./assets/uiImg/myPage/comment.jpg" width="190" />
-  <img src="./assets/uiImg/myPage/subscribeMangage.jpg" width="190" />
-</p>
-
-### Sign Up / Login
-
-<p align="center">
-  <img src="./assets/uiImg/sign/loginMain.jpg" width="200" />
-  <img src="./assets/uiImg/sign/signUp.jpg" width="200" />
-  <img src="./assets/uiImg/sign/socialLogin.jpg" width="200" />
-  <img src="./assets/uiImg/sign/findPw.jpg" width="200" />
-</p>
-
+> #### Main
+>  <img src="./wanderUI/mainAll.jpg" width="100%"/>
+>
+> #### Video
+>  <img src="./wanderUI/playVideoAll.jpg" width="100%"/>
+>
+> #### Others (Search, Personal)
+>  <img src="./wanderUI/searchAll.jpg" />
+>
+> #### Login
+>  <img src="./wanderUI/signAll.jpg" />
+>
 <hr/>
 
 ### System Structure
